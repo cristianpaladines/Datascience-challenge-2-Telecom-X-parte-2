@@ -85,8 +85,7 @@ El modelo de **Regresión Logística obtuvo un mejor rendimiento**, alcanzando u
 
 ## Curva ROC del modelo
 
-![ROC Curve](<img width="691" height="548" alt="image" src="https://github.com/user-attachments/assets/6435141d-728b-4c5d-93a1-2d4adfad9dbd" />
-)
+![ROC Curve](<img width="691" height="548" alt="image" src="https://github.com/user-attachments/assets/6435141d-728b-4c5d-93a1-2d4adfad9dbd" />)
 
 ---
 
