@@ -146,12 +146,12 @@ El uso de modelos predictivos permite tomar **decisiones basadas en datos para r
 # Estructura del Repositorio
 
 ```
-churn-prediction/
+Datascience-challenge-2-Telecom-X-parte-2/
 │
-├── churn_prediction.ipynb
+├── 1_Challenge_telecomX_parte2.ipynb
 ├── README.md
 └── data/
-    └── telco_churn.csv
+    └── datos_tratados.csv
 ```
 
 ---
@@ -172,4 +172,4 @@ Algunas mejoras que podrían implementarse en futuras versiones del proyecto:
 
 Crhistian Camilo Paladines
 
-Proyecto desarrollado como parte de un proceso de aprendizaje en **Machine Learning y Ciencia de Datos**, enfocado en problemas de clasificación, evaluación de modelos e interpretación de resultados.
+Proyecto desarrollado como parte de un proceso de aprendizaje en **Machine Learning y Ciencia de Datos**.
