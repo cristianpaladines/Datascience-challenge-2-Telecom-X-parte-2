@@ -1,5 +1,6 @@
 # Datascience-challenge-2-Telecom-X-parte-2
- 
+
+# Telecom X - parte 2
 # Predicción de Cancelación de Clientes (Customer Churn) – Proyecto de Machine Learning
 
 ## Descripción del Proyecto
@@ -14,7 +15,7 @@ Este tipo de modelo permite a las empresas **identificar clientes en riesgo y ap
 
 # Dataset
 
-Para este proyecto se utilizó el dataset **Telco Customer Churn**, que contiene información sobre clientes de una empresa de telecomunicaciones.
+Para este proyecto se utilizó el dataset **Telecom X Customer Churn**, que contiene información sobre clientes de una empresa de telecomunicaciones.
 
 El dataset incluye variables como:
 
@@ -81,6 +82,11 @@ Se evaluaron dos modelos de clasificación:
 | Random Forest       | **0.821** |
 
 El modelo de **Regresión Logística obtuvo un mejor rendimiento**, alcanzando un **AUC de 0.843**, lo que indica una buena capacidad para diferenciar entre clientes que cancelan el servicio y aquellos que permanecen.
+
+## Curva ROC del modelo
+
+![ROC Curve](<img width="691" height="548" alt="image" src="https://github.com/user-attachments/assets/6435141d-728b-4c5d-93a1-2d4adfad9dbd" />
+)
 
 ---
 
